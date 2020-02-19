@@ -5,7 +5,7 @@ Making beautiful images inspired by amyloid fibrils
 
 These fibrils can be visualized by electron microscope, taking images such as this one:
 
-![Real Amyloid](https://github.com/maximosanz/AmyloidArt/blob/master/Images/ams.jpg)
+<img src="https://github.com/maximosanz/AmyloidArt/blob/master/Images/ams.jpg" width="256" height="256" title="Real Amyloid">
 
 The formation and growth of amyloid has been extensively studied and modelled. It involves a nucleation step in which proteins coming together to form a fibrillar core, which subsequently elongates and can undergo branching (or secondary nucleation). A detailed description of this process can be found here:
 
